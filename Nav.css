@@ -26,10 +26,6 @@
     border-radius: 10px;
 }
 
-.Navbar-middle > .MuiSvgIcon-root {
-    color: gray;
-}
-
 .Navbar-middle > input {
     border: none;
     width: 100%;
