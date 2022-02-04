@@ -19,7 +19,7 @@
 .Navbar-middle {
     display: flex;
     align-items: center;
-    flex: 0.7;
+    flex: 0.8;
     background-color: whitesmoke;
     padding: 8px 15px;
     margin: 10px;
@@ -28,7 +28,6 @@
 
 .Navbar-middle > input {
     border: none;
-    width: 100%;
     padding: 10px;
     outline: none;
     font-size: medium;
